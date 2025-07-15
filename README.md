@@ -1,4 +1,4 @@
-# Francisco X. Vera Fabila
+# Francisco Xavier Vera Fabila
 
 **Back-End Developer | Cloud & Cybersecurity Enthusiast | Java Specialist**
 
@@ -38,7 +38,7 @@
 
 ## 🚀 Featured Projects
 
-### [Bach](https://github.com/Bach-edu/Bach-BackEnd) | [Security Fork](https://github.com/Morfeo95/Bach-BackEnd)
+### [Bach](https://github.com/Bach-edu/Bach-BackEnd)
 A challenge-based music learning platform with real-time chat and secure authentication. Built using Java, Spring Boot, and MySQL.
 
 ### [Librería Cervantes](https://github.com/Morfeo95/Cervantes)
