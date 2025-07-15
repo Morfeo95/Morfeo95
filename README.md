@@ -41,17 +41,17 @@
 ### [Bach](https://github.com/Bach-edu/Bach-BackEnd)
 A challenge-based music learning platform with real-time chat and secure authentication. Built using Java, Spring Boot, and MySQL.
 
-### [Librería Cervantes](https://github.com/Morfeo95/Cervantes)
-Java application for managing books and authors with advanced search, statistics, and filtering features.
+### [Easybiz](https://easy-biz-alpha.vercel.app/)
+A business tool for small enterprises to easily generate price quotes. Future plans include cash flow management and financial reporting.
 
 ### [ForoMania](https://github.com/Morfeo95/ForoMania)
 Forum platform with secure user authentication using JWT. Complete management of users, topics, and responses.
 
+### [Librería Cervantes](https://github.com/Morfeo95/Cervantes)
+Java application for managing books and authors with advanced search, statistics, and filtering features.
+
 ### [Text Encryptor](https://morfeo95.github.io/encriptador/) | [Code](https://github.com/Morfeo95/encriptador)
 Simple web application for encrypting and decrypting messages using HTML, CSS, and JavaScript.
-
-### [Easybiz](https://easy-biz-alpha.vercel.app/)
-A business tool for small enterprises to easily generate price quotes. Future plans include cash flow management and financial reporting.
 
 ---
 
