@@ -10,55 +10,71 @@
 
 ## 👨‍💻 Core Technologies
 
-- **Languages & Frameworks:** Java, Spring Boot, JavaScript, Python
-- **Databases:** MySQL, PostgreSQL, SQL
-- **Security & DevOps:** JWT, BCrypt, Docker, OWASP, Vulnerability Testing
-- **Data Analysis:** Pandas, NumPy, Matplotlib
+* **Languages & Frameworks:** Java, Spring Boot, JavaScript, Python
+* **Databases:** MySQL, PostgreSQL, SQL
+* **Security & DevOps:** JWT, BCrypt, Docker, OWASP, Vulnerability Testing
+* **Data Analysis:** Pandas, NumPy, Matplotlib
 
 ---
 
 ## 🎓 Certifications & Education
 
-- Oracle Cloud Infrastructure Foundations Associate *(2025)*
-- Oracle: Generative AI Course *(2025)*
-- Google Career Certificate: Cybersecurity *(2024)*
-- ONE Certified Back-End Developer *(2024)*
+* Oracle Cloud Infrastructure Foundations Associate *(2025)*
+* Oracle: Generative AI Course *(2025)*
+* Google Career Certificate: Cybersecurity *(2024)*
+* ONE Certified Back-End Developer *(2024)*
 
 ---
 
 ## 🧠 Soft Skills
 
-- Analytical thinking for solving complex technical challenges
-- Clear and empathetic communication with both technical and non-technical stakeholders
-- Accountability and autonomy in high-pressure environments
-- Adaptability to evolving technologies and agile practices
-- Effective collaboration within multidisciplinary teams
+* Analytical thinking for solving complex technical challenges
+* Clear and empathetic communication with both technical and non-technical stakeholders
+* Accountability and autonomy in high-pressure environments
+* Adaptability to evolving technologies and agile practices
+* Effective collaboration within multidisciplinary teams
 
 ---
 
 ## 🚀 Featured Projects
 
+### [Lumina](https://github.com/Hackathon-ONE/Back-E-learning) | [Live Demo](https://front-e-learning-seven.vercel.app/)
+
+An e-learning platform developed for the **Hackathon ONE** challenge. Provides a complete educational experience for students, instructors, and administrators.
+
+**Tech Stack:** Java, Spring Boot, PostgreSQL, React, Docker, JWT.
+
+* Secure login and registration with roles and permissions.
+* Course creation and enrollment.
+* Progress tracking and multimedia content.
+* Deployed backend with Docker on Render.
+
 ### [Bach](https://github.com/Bach-edu/Bach-BackEnd)
+
 A challenge-based music learning platform with real-time chat and secure authentication. Built using Java, Spring Boot, and MySQL.
 
 ### [Easybiz](https://easy-biz-alpha.vercel.app/)
+
 A business tool for small enterprises to easily generate price quotes. Future plans include cash flow management and financial reporting.
 
 ### [ForoMania](https://github.com/Morfeo95/ForoMania)
+
 Forum platform with secure user authentication using JWT. Complete management of users, topics, and responses.
 
 ### [Librería Cervantes](https://github.com/Morfeo95/Cervantes)
+
 Java application for managing books and authors with advanced search, statistics, and filtering features.
 
 ### [Text Encryptor](https://morfeo95.github.io/encriptador/) | [Code](https://github.com/Morfeo95/encriptador)
+
 Simple web application for encrypting and decrypting messages using HTML, CSS, and JavaScript.
 
 ---
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/francisco-x-vera-/)
-- [GitHub](https://github.com/Morfeo95)
+* [LinkedIn](https://linkedin.com/in/francisco-x-vera-/)
+* [GitHub](https://github.com/Morfeo95)
 
 ---
 
