@@ -65,9 +65,11 @@ Forum platform with secure user authentication using JWT. Complete management of
 
 Java application for managing books and authors with advanced search, statistics, and filtering features.
 
-### [Text Encryptor](https://morfeo95.github.io/encriptador/) | [Code](https://github.com/Morfeo95/encriptador)
+### [Personal Portfolio](https://portafolio-hazel-phi.vercel.app/) | [Code](https://github.com/Morfeo95/Portafolio)
 
-Simple web application for encrypting and decrypting messages using HTML, CSS, and JavaScript.
+Interactive personal portfolio built with **React** and **Vite**, featuring smooth animations powered by **Framer Motion**, modern UI components with **Lucide Icons**, and a clean, responsive design using **TailwindCSS**.  
+Showcases featured projects, technical skills, and professional profile with a strong focus on clarity, performance, and user experience.
+
 
 ---
 
